@@ -1,1 +1,110 @@
+.App-background {
+    height: 100vh;
+    width: 100%;
+    background-color: orange;
+  }
 
+  .news-display {
+
+  }
+
+ .app-title {
+      font-size: 100px;
+      color: orange;
+  }
+
+  #searchTerm {
+      width: 92.5%;
+      height: 20px;
+      border-radius: 5px;
+  }
+
+  button {
+      height: 25px;
+      background: orange;
+    border-radius: 20px;
+  }
+
+  .container {
+      width: 600px;
+      border: 15px solid orange;
+      padding: 15px;
+      margin: 25px;
+      height: 2885px;
+  }
+
+  .thoughts {
+      width: 600px;
+      border: 15px solid orange;
+      margin-top: -2970px;
+      margin-left: 750px;
+      height: 2885px;
+      padding: 15px;
+  }
+
+  #thoughts-box {
+      width: 597px;
+      height: 2220px;
+      background: orange;
+      border-color: none;
+      border: none;
+      font-size: 20px;
+  }
+
+  .article-holder {
+      width: 1325px;
+      height: 500px;
+      padding: 15px;
+      margin: 25px;
+      border: 15px solid orange;
+  }
+
+  .new-art {
+    margin: 0px 5px;
+    height: 25px;
+    background: orange;
+    border: none;
+  }
+
+
+  .new-article {
+      position: absolute;
+      background: orange;
+      border: none;
+  }
+
+  .article-btn {
+      height: 25px;
+      background: orange;
+      position: absolute;
+      margin-top: 80px;
+      margin-left: -408px;
+  }
+
+  .new-art-container {
+      width: 1325px;
+      height: 500px;
+      padding: 15px;
+      margin: 25px;
+      border: 15px solid orange;
+  }
+
+  .dlt-btn {
+    height: 25px;
+    background: orange;
+    position: absolute;
+    margin-top: 480px;
+    margin-left: -220px;
+  }
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: grey;
+    
+  }
+
+  
+  

@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "pubg-api-redis": "^3.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.0.17"
+    "react-scripts": "1.0.17",
+    "yoda-speak": "^0.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -14,7 +19,8 @@
     "eject": "react-scripts eject"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
-  "main": "index/index.js",
+  "main": "server/index.js",
+  "proxy": "http://localhost:3020",
   "devDependencies": {},
   "repository": {
     "type": "git",
